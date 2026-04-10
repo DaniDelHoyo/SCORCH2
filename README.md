@@ -22,7 +22,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/SCORCH2.git
+git clone https://github.com/LinCompbio/SCORCH2.git
 cd SCORCH2
 
 # Create and activate conda environment
