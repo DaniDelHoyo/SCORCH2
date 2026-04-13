@@ -69,7 +69,7 @@ def run_feature_extraction(protein_dir: str, ligand_dir: str, output_dir: str, n
     
     # Run feature extraction with progress monitoring
     cmd = [
-        sys.executable, "SCORCH2/utils/scorch2_feature_extraction.py",
+        sys.executable, "utils/scorch2_feature_extraction.py",
         "--protein-dir", protein_dir,
         "--ligand-dir", ligand_dir, 
         "--output-dir", output_dir,
